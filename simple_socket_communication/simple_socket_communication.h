@@ -43,3 +43,7 @@ int receive_and_process(int socket_descriptor, T& data_accumulator, F& process_f
 }
 
 #endif //SOCKET_SC_SIMPLE_SOCKET_COMMUNICATION_H
+
+
+// ToDo
+// apply function in receive_and_process in chunks
